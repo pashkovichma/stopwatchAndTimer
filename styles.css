@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: space-around;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.controls {
+  margin-top: 10px;
+}
+
+.hidden {
+  display: none;
+}
